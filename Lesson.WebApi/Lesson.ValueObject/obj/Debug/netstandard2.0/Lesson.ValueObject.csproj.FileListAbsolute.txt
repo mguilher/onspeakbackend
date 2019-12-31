@@ -1,0 +1,8 @@
+C:\Users\danilo.monco\source\repos\Lesson.WebApi\Lesson.ValueObject\bin\Debug\netstandard2.0\Lesson.ValueObject.deps.json
+C:\Users\danilo.monco\source\repos\Lesson.WebApi\Lesson.ValueObject\bin\Debug\netstandard2.0\Lesson.ValueObject.dll
+C:\Users\danilo.monco\source\repos\Lesson.WebApi\Lesson.ValueObject\bin\Debug\netstandard2.0\Lesson.ValueObject.pdb
+C:\Users\danilo.monco\source\repos\Lesson.WebApi\Lesson.ValueObject\obj\Debug\netstandard2.0\Lesson.ValueObject.csprojAssemblyReference.cache
+C:\Users\danilo.monco\source\repos\Lesson.WebApi\Lesson.ValueObject\obj\Debug\netstandard2.0\Lesson.ValueObject.AssemblyInfoInputs.cache
+C:\Users\danilo.monco\source\repos\Lesson.WebApi\Lesson.ValueObject\obj\Debug\netstandard2.0\Lesson.ValueObject.AssemblyInfo.cs
+C:\Users\danilo.monco\source\repos\Lesson.WebApi\Lesson.ValueObject\obj\Debug\netstandard2.0\Lesson.ValueObject.dll
+C:\Users\danilo.monco\source\repos\Lesson.WebApi\Lesson.ValueObject\obj\Debug\netstandard2.0\Lesson.ValueObject.pdb

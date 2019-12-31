@@ -1,0 +1,11 @@
+C:\Users\danilo.monco\source\repos\User.OnBoarding.Processor\User.OnBoarding.Application\bin\Debug\netstandard2.0\User.OnBoarding.Application.deps.json
+C:\Users\danilo.monco\source\repos\User.OnBoarding.Processor\User.OnBoarding.Application\bin\Debug\netstandard2.0\User.OnBoarding.Application.dll
+C:\Users\danilo.monco\source\repos\User.OnBoarding.Processor\User.OnBoarding.Application\obj\Debug\netstandard2.0\User.OnBoarding.Application.csprojAssemblyReference.cache
+C:\Users\danilo.monco\source\repos\User.OnBoarding.Processor\User.OnBoarding.Application\obj\Debug\netstandard2.0\User.OnBoarding.Application.AssemblyInfoInputs.cache
+C:\Users\danilo.monco\source\repos\User.OnBoarding.Processor\User.OnBoarding.Application\obj\Debug\netstandard2.0\User.OnBoarding.Application.AssemblyInfo.cs
+C:\Users\danilo.monco\source\repos\User.OnBoarding.Processor\User.OnBoarding.Application\bin\Debug\netstandard2.0\User.OnBoarding.Repository.dll
+C:\Users\danilo.monco\source\repos\User.OnBoarding.Processor\User.OnBoarding.Application\bin\Debug\netstandard2.0\User.OnBoarding.Repository.pdb
+C:\Users\danilo.monco\source\repos\User.OnBoarding.Processor\User.OnBoarding.Application\obj\Debug\netstandard2.0\User.OnBoarding.Application.csproj.CopyComplete
+C:\Users\danilo.monco\source\repos\User.OnBoarding.Processor\User.OnBoarding.Application\bin\Debug\netstandard2.0\User.OnBoarding.Application.pdb
+C:\Users\danilo.monco\source\repos\User.OnBoarding.Processor\User.OnBoarding.Application\obj\Debug\netstandard2.0\User.OnBoarding.Application.dll
+C:\Users\danilo.monco\source\repos\User.OnBoarding.Processor\User.OnBoarding.Application\obj\Debug\netstandard2.0\User.OnBoarding.Application.pdb

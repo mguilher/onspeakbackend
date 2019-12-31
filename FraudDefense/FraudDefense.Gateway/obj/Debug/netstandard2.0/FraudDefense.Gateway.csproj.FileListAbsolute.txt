@@ -1,0 +1,8 @@
+C:\Users\danilo.monco\source\repos\FraudDefense\FraudDefense.Gateway\bin\Debug\netstandard2.0\FraudDefense.Gateway.deps.json
+C:\Users\danilo.monco\source\repos\FraudDefense\FraudDefense.Gateway\bin\Debug\netstandard2.0\FraudDefense.Gateway.dll
+C:\Users\danilo.monco\source\repos\FraudDefense\FraudDefense.Gateway\obj\Debug\netstandard2.0\FraudDefense.Gateway.csprojAssemblyReference.cache
+C:\Users\danilo.monco\source\repos\FraudDefense\FraudDefense.Gateway\obj\Debug\netstandard2.0\FraudDefense.Gateway.AssemblyInfoInputs.cache
+C:\Users\danilo.monco\source\repos\FraudDefense\FraudDefense.Gateway\obj\Debug\netstandard2.0\FraudDefense.Gateway.AssemblyInfo.cs
+C:\Users\danilo.monco\source\repos\FraudDefense\FraudDefense.Gateway\bin\Debug\netstandard2.0\FraudDefense.Gateway.pdb
+C:\Users\danilo.monco\source\repos\FraudDefense\FraudDefense.Gateway\obj\Debug\netstandard2.0\FraudDefense.Gateway.dll
+C:\Users\danilo.monco\source\repos\FraudDefense\FraudDefense.Gateway\obj\Debug\netstandard2.0\FraudDefense.Gateway.pdb
