@@ -1,8 +1,0 @@
-C:\Users\danilo.monco\source\repos\User.OnBoarding.Processor\User.OnBoarding.Repository\bin\Debug\netstandard2.0\User.OnBoarding.Repository.deps.json
-C:\Users\danilo.monco\source\repos\User.OnBoarding.Processor\User.OnBoarding.Repository\bin\Debug\netstandard2.0\User.OnBoarding.Repository.dll
-C:\Users\danilo.monco\source\repos\User.OnBoarding.Processor\User.OnBoarding.Repository\obj\Debug\netstandard2.0\User.OnBoarding.Repository.AssemblyInfoInputs.cache
-C:\Users\danilo.monco\source\repos\User.OnBoarding.Processor\User.OnBoarding.Repository\obj\Debug\netstandard2.0\User.OnBoarding.Repository.AssemblyInfo.cs
-C:\Users\danilo.monco\source\repos\User.OnBoarding.Processor\User.OnBoarding.Repository\bin\Debug\netstandard2.0\User.OnBoarding.Repository.pdb
-C:\Users\danilo.monco\source\repos\User.OnBoarding.Processor\User.OnBoarding.Repository\obj\Debug\netstandard2.0\User.OnBoarding.Repository.dll
-C:\Users\danilo.monco\source\repos\User.OnBoarding.Processor\User.OnBoarding.Repository\obj\Debug\netstandard2.0\User.OnBoarding.Repository.pdb
-C:\Users\danilo.monco\source\repos\User.OnBoarding.Processor\User.OnBoarding.Repository\obj\Debug\netstandard2.0\User.OnBoarding.Repository.csprojAssemblyReference.cache

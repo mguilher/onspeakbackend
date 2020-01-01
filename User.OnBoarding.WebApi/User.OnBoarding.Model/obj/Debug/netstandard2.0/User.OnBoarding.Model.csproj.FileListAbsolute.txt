@@ -1,7 +1,0 @@
-C:\Users\danilo.monco\source\repos\User.OnBoarding.WebApi\User.OnBoarding.Model\bin\Debug\netstandard2.0\User.OnBoarding.Model.deps.json
-C:\Users\danilo.monco\source\repos\User.OnBoarding.WebApi\User.OnBoarding.Model\bin\Debug\netstandard2.0\User.OnBoarding.Model.dll
-C:\Users\danilo.monco\source\repos\User.OnBoarding.WebApi\User.OnBoarding.Model\bin\Debug\netstandard2.0\User.OnBoarding.Model.pdb
-C:\Users\danilo.monco\source\repos\User.OnBoarding.WebApi\User.OnBoarding.Model\obj\Debug\netstandard2.0\User.OnBoarding.Model.AssemblyInfoInputs.cache
-C:\Users\danilo.monco\source\repos\User.OnBoarding.WebApi\User.OnBoarding.Model\obj\Debug\netstandard2.0\User.OnBoarding.Model.AssemblyInfo.cs
-C:\Users\danilo.monco\source\repos\User.OnBoarding.WebApi\User.OnBoarding.Model\obj\Debug\netstandard2.0\User.OnBoarding.Model.dll
-C:\Users\danilo.monco\source\repos\User.OnBoarding.WebApi\User.OnBoarding.Model\obj\Debug\netstandard2.0\User.OnBoarding.Model.pdb

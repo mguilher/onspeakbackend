@@ -31,5 +31,11 @@ namespace Lesson.WebApi.Controllers
         {
             return await _application.GetAllLessons(teacherId);
         }
+
+        [HttpGet("criteria/{value}")]
+        public async Task<LessonResponse> GetLessons(string value)
+        {
+            return await _application.GetAllContent(value);
+        }
     }
 }

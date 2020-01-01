@@ -13,6 +13,7 @@ namespace Lesson.Application
         Task<LessonResponse> GetAllLessons();
         Task<LessonResponse> GetAllLessons(int teacherId);
         Task<TeacherResponse> GetAllTeachers();
+        Task<LessonResponse> GetAllContent(string value);
     }
 
     public class LessonApplication : ILessonApplication
@@ -48,6 +49,25 @@ namespace Lesson.Application
             try
             {
                 var items = await _repository.GetLessons();
+                lesson = items.ToLessonResponse();
+            }
+            catch (Exception e)
+            {
+                _logger.LogError(e, "LessonApplication Error");
+                lesson.ResponseType = ResponseTypeEnum.Error;
+            }
+            return lesson;
+        }
+
+        public async Task<LessonResponse> GetAllContent(string value)
+        {
+            if (value == "*")
+                return await GetAllLessons();
+
+            var lesson = new LessonResponse();
+            try
+            {
+                var items = await _repository.GetLessons(value);
                 lesson = items.ToLessonResponse();
             }
             catch (Exception e)

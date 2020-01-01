@@ -13,6 +13,7 @@ namespace Lesson.Respository
     {
         Task<List<LessonValue>> GetLessons();
         Task<List<LessonValue>> GetLessons(int teacherId);
+        Task<List<LessonValue>> GetLessons(string value);
         Task<List<TeacherValue>> GetAllTeachers();
     }
 
@@ -79,6 +80,29 @@ namespace Lesson.Respository
                         ";
 
             var reader = PrepareDataReader(sql, new SqlParameter("teacherId", teacherId));
+            while (reader.Read())
+            {
+                result.Add(LessonBuild(reader));
+            }
+            reader.Close();
+
+            return result;
+        }
+
+        public async Task<List<LessonValue>> GetLessons(string value)
+        {
+            var result = new List<LessonValue>();
+            var sql = @"
+                        Select t.TeacherId, t.TeacherName, t.TeacherImageUrl, T.Country,
+	                           l.LessonId, l.LessonTitle, l.LessonImageUrl, d.LessonVideoUrl, d.LessonDescription
+                        From Teacher t inner join Lesson l
+		                        on t.TeacherId = l.TeacherId
+	                         inner join LessonDetail d
+		                        on l.LessonId = d.LessonId
+                        where t.TeacherName like '%' + @value + '%' or  l.LessonTitle like '%' +@value+ '%' 
+                        ";
+
+            var reader = PrepareDataReader(sql, new SqlParameter("value", value));
             while (reader.Read())
             {
                 result.Add(LessonBuild(reader));

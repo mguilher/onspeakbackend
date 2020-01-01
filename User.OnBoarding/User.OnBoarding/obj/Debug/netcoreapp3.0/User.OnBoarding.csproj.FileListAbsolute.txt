@@ -1,9 +1,0 @@
-C:\Users\danilo.monco\source\repos\User.OnBoarding\User.OnBoarding\bin\Debug\netcoreapp3.0\appsettings.Development.json
-C:\Users\danilo.monco\source\repos\User.OnBoarding\User.OnBoarding\bin\Debug\netcoreapp3.0\appsettings.json
-C:\Users\danilo.monco\source\repos\User.OnBoarding\User.OnBoarding\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
-C:\Users\danilo.monco\source\repos\User.OnBoarding\User.OnBoarding\obj\Debug\netcoreapp3.0\User.OnBoarding.csprojAssemblyReference.cache
-C:\Users\danilo.monco\source\repos\User.OnBoarding\User.OnBoarding\obj\Debug\netcoreapp3.0\staticwebassets\User.OnBoarding.StaticWebAssets.Manifest.cache
-C:\Users\danilo.monco\source\repos\User.OnBoarding\User.OnBoarding\obj\Debug\netcoreapp3.0\staticwebassets\User.OnBoarding.StaticWebAssets.xml
-C:\Users\danilo.monco\source\repos\User.OnBoarding\User.OnBoarding\obj\Debug\netcoreapp3.0\User.OnBoarding.AssemblyInfoInputs.cache
-C:\Users\danilo.monco\source\repos\User.OnBoarding\User.OnBoarding\obj\Debug\netcoreapp3.0\User.OnBoarding.AssemblyInfo.cs
-C:\Users\danilo.monco\source\repos\User.OnBoarding\User.OnBoarding\obj\Debug\netcoreapp3.0\User.OnBoarding.RazorTargetAssemblyInfo.cache

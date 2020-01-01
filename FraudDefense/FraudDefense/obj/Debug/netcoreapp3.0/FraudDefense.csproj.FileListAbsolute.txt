@@ -1,5 +1,0 @@
-C:\Users\danilo.monco\source\repos\FraudDefense\FraudDefense\bin\Debug\netcoreapp3.0\appsettings.Development.json
-C:\Users\danilo.monco\source\repos\FraudDefense\FraudDefense\bin\Debug\netcoreapp3.0\appsettings.json
-C:\Users\danilo.monco\source\repos\FraudDefense\FraudDefense\obj\Debug\netcoreapp3.0\FraudDefense.csprojAssemblyReference.cache
-C:\Users\danilo.monco\source\repos\FraudDefense\FraudDefense\obj\Debug\netcoreapp3.0\FraudDefense.AssemblyInfoInputs.cache
-C:\Users\danilo.monco\source\repos\FraudDefense\FraudDefense\obj\Debug\netcoreapp3.0\FraudDefense.AssemblyInfo.cs
